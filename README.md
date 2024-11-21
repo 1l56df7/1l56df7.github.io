@@ -1,3 +1,5 @@
+BLOCKED
+
 Unblocked Games
 
 If this gets blocked just fork it and fix auth for proxy.
